@@ -8,7 +8,7 @@
   "description": "Vanilla flux implementation using Facebook's example code",
   "main": "index.js",
   "scripts": {
-    "test": "mocha --recursive ./src"
+    "test": "mocha --recursive ./src/**/*.spec.js"
   },
   "author": "James Gardner",
   "license": "MIT",

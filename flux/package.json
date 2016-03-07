@@ -1,0 +1,26 @@
+{
+  "name": "flux-raw-example",
+  "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/backdesk/examples.git"
+  },
+  "description": "Vanilla flux implementation using Facebook's example code",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --recursive ./src"
+  },
+  "author": "James Gardner",
+  "license": "MIT",
+  "dependencies": {
+    "flux": "^2.1.1",
+    "keymirror": "^0.1.1",
+    "object-assign": "^4.0.1"
+  },
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "rewire": "^2.5.1",
+    "should": "^8.2.2",
+    "sinon": "^1.17.3"
+  }
+}

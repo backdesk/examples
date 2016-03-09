@@ -1,0 +1,16 @@
+{
+  "name": "excel",
+  "version": "1.0.0",
+  "description": "Prototype to test writing to excel spreadsheets from node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "James Gardner",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.15.0",
+    "exceljs": "^0.2.4",
+    "express": "^4.13.4"
+  }
+}

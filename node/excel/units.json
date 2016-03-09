@@ -1,0 +1,30 @@
+{
+    "units" : [
+        {
+            "productDescription" : "Product A",
+            "caseSize" : 2,
+            "supplerNumber" : 31231,
+            "tpnd" : 12321,
+            "basicCaseCost" : 2.52,
+            "finalInvoiceCost" : 2.45,
+            "currency" : "GBP",
+            "invoiceDiscount" : 0.00,
+            "invoiceStartDate" : "19/02/2014",
+            "invoiceEndDate" : "19/05/2015",
+            "invoiceCaseCost" : 3.00
+        },
+        {
+            "productDescription" : "Product B",
+            "caseSize" : 2,
+            "supplerNumber" : 51431,
+            "tpnd" : 12321,
+            "basicCaseCost" : 1.92,
+            "finalInvoiceCost" : 2.45,
+            "currency" : "GBP",
+            "invoiceDiscount" : 0.00,
+            "invoiceStartDate" : "19/02/2014",
+            "invoiceEndDate" : "19/05/2015",
+            "invoiceCaseCost" : 3.00
+        }
+    ]
+}
